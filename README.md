@@ -1,4 +1,4 @@
-# isp9_27_slavin_zatsepin
+# isp9_27_zatsepin
 
 A new Flutter project.
 
